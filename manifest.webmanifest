@@ -1,0 +1,16 @@
+{
+ "name": "AD CRAFT Travel",
+ "short_name": "AD CRAFT",
+ "start_url": "./",
+ "display": "standalone",
+ "background_color": "#fffaf0",
+ "theme_color": "#0f5257",
+ "icons": [
+  {
+   "src": "favicon.svg",
+   "sizes": "any",
+   "type": "image/svg+xml",
+   "purpose": "any"
+  }
+ ]
+}
